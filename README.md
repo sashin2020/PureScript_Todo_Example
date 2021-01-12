@@ -1,5 +1,5 @@
 # PureScript_Todo_Example
-Example  code to create TodoList using Prescript and React - Basic 
+Example  code to create TodoList using Purescript and React - Basic 
 
 Commands
 - npx spago build
